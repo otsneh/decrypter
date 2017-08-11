@@ -1,7 +1,5 @@
 import sys
 
-# sample message: N30q"r pu n2q3 2q: O0w2yy0 5086. X6 0w7 xl 3vx26 )k0x0q 1prq u0sz67 vps ry09 vpqr276? N6"s6 yvvz2w4 5vs rvx6n36s6 qv uvrq pu vps (y08z 0rr6r 5vs q36 w243q? Rv: p3: 90w4 90w4: rz66q rz66q: w2440? !prq 0 8vpuy6 v5 u2xur: wv 3vr?
-
 CHAR_FREQUENCY = "etaoinsrhldcumfgpywb,.vk-\"_'x)(;0j1q=2:z/*!?$35>{}49[]867\\+|&<%@#^`~"
 CHARS_TO_IGNORE = " "
 
