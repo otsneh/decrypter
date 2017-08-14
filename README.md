@@ -11,6 +11,9 @@ virtualenv venv
 
 # install requirements on virtual env
 pip install -r requirements.txt
+
+# install frontend dependencies
+npm install
 ```
 
 # Exit virtual env:
@@ -20,5 +23,9 @@ deactivate
 
 # Run development server:
 ```
+# backend
 export FLASK_APP=app.py && flask run
+
+# frontend
+npm start
 ```
